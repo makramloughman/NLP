@@ -5,3 +5,7 @@ Identify and obtain the necessary financial statement, returns data and 10-Qs fo
 ## 10-Qs and 10-Ks cleaned data
 
 [Google Drive](https://drive.google.com/drive/folders/1OjNVo_ErU5UvRmhkcqJqKR7sXdrrNqaT?usp=sharing) (accessible with CMU account)
+
+
+## Daily closing price for individual stocks from S&P 500 (Matching key: CIK)
+[Google Drive](https://drive.google.com/file/d/1Qkro5QlNLLEwTEPz0JQs3XEERypFZN2T/view?usp=sharing) (accessible with CMU account)
