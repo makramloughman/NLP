@@ -1,6 +1,6 @@
 ## Assignment 1
 
-Identify and obtain the necessary financial statement, returns data and 10-Qs for each of the S&P500 companies for the most recent 5-year period for which data are available in the period 2016 through 2021 and recreate Figure 1 from the Loughran and MacDonald Analysis.
+Identify and obtain the necessary financial statement, returns data and 10-Qs for each of the S&P500 companies for the most recent 5-year period for which data are available in the period 2016 through 2021 and recreate Figure 1 from the [Loughran and MacDonald Analysis](https://www.uts.edu.au/sites/default/files/ADG_Cons2015_Loughran%20McDonald%20JE%202011.pdf).
 
 ## 10-Qs and 10-Ks cleaned data
 
