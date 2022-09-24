@@ -14,4 +14,4 @@ Identify and obtain the necessary financial statement, returns data and 10-Qs fo
 [Google Drive](https://drive.google.com/file/d/1DuuCIH8cV2RBJ1y8oten28Hc-OeY0gyS/view?usp=sharing) (accessible with CMU account)
 
 ## Fin-Neg
-https://docs.google.com/spreadsheets/d/1rFy61lRQXTCW6V9Hqwuqe47lxfVnK6pE/edit?usp=sharing&ouid=115004589139334595740&rtpof=true&sd=true
+[Google Drive](https://docs.google.com/spreadsheets/d/1rFy61lRQXTCW6V9Hqwuqe47lxfVnK6pE/edit?usp=sharing) (accessible with CMU account)
