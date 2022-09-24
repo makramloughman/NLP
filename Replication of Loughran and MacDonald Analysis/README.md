@@ -12,3 +12,5 @@ Identify and obtain the necessary financial statement, returns data and 10-Qs fo
 [Google Drive](https://drive.google.com/file/d/1DuuCIH8cV2RBJ1y8oten28Hc-OeY0gyS/view?usp=sharing) (accessible with CMU account)
 - **Fin-Neg** <br>
 [Google Drive](https://docs.google.com/spreadsheets/d/1rFy61lRQXTCW6V9Hqwuqe47lxfVnK6pE/edit?usp=sharing) (accessible with CMU account)
+- **Directory Final Merged Data with Excess Returns** <br>
+https://drive.google.com/drive/folders/1rs2XL69OtyB0HUeTfjN6JLa8YanxPlWD?usp=sharing
