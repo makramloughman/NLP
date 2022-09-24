@@ -15,5 +15,5 @@ Identify and obtain the necessary financial statement, returns data and 10-Qs fo
 - **Directory Final Merged Data with Excess Returns** <br>
 https://drive.google.com/drive/folders/1rs2XL69OtyB0HUeTfjN6JLa8YanxPlWD?usp=sharing
 
- **Directory Data Processing and final results** <br>
+- **Directory Data Processing and final results** <br>
 https://drive.google.com/drive/folders/1keBl7sz6nVQ1n7TIL-2KwClG52FvrU6c?usp=sharing
