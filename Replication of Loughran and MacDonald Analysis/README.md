@@ -17,3 +17,6 @@ https://drive.google.com/drive/folders/1rs2XL69OtyB0HUeTfjN6JLa8YanxPlWD?usp=sha
 
 - **Directory Data Processing and final results** <br>
 https://drive.google.com/drive/folders/1keBl7sz6nVQ1n7TIL-2KwClG52FvrU6c?usp=sharing
+
+**Write Up - Akshat** <br>
+https://docs.google.com/document/d/1gBd2FtDXdjHsgzEP7R2wX3m6djVLOcZb/edit?usp=sharing&ouid=101109307875898826934&rtpof=true&sd=true
