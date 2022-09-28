@@ -1,4 +1,4 @@
-## Assignment 1
+# Project 1
 
 Identify and obtain the necessary financial statement, returns data and 10-Qs for each of the S&P500 companies for the most recent 5-year period for which data are available in the period 2016 through 2021 and recreate Figure 1 from the [Loughran and MacDonald Analysis](https://www.uts.edu.au/sites/default/files/ADG_Cons2015_Loughran%20McDonald%20JE%202011.pdf).
 
@@ -18,5 +18,5 @@ https://drive.google.com/drive/folders/1rs2XL69OtyB0HUeTfjN6JLa8YanxPlWD?usp=sha
 - **Directory Data Processing and final results** <br>
 https://drive.google.com/drive/folders/1keBl7sz6nVQ1n7TIL-2KwClG52FvrU6c?usp=sharing
 
-**Report Drive Link** <br>
+## Analysis and Conclusion Drive Link
 https://docs.google.com/document/d/1gBd2FtDXdjHsgzEP7R2wX3m6djVLOcZb/edit?usp=sharing&ouid=101109307875898826934&rtpof=true&sd=true
