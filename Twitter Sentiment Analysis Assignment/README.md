@@ -7,4 +7,4 @@ How does this change in Sentiment for each candidate compare to the most recent 
 ## Data Files Drive Link
 
 - **Tweets** <br>
-[Google Drive](https://drive.google.com/drive/folders/1x6oCiWlzhrMLt-SzgYUyDSBGVprW0m90?usp=sharing) (only accessible to collaborators with CMU account)
+[Google Drive](https://drive.google.com/drive/folders/1x6oCiWlzhrMLt-SzgYUyDSBGVprW0m90?usp=sharing) (only accessible to collaborators with CMU account, grader can request access)
